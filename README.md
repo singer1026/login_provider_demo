@@ -1,4 +1,4 @@
 # login_provider_demo
 
-简单使用Provider实现登录状态管理Demo
+在Flutter中简单使用Provider实现登录状态管理Demo
 实现功能登录后刷新首页数据，退出登录后清空首页数据
